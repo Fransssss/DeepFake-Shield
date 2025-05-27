@@ -89,8 +89,7 @@ pip install -r requirements.txt
 
 ```bash
 python app.py
-# or
-streamlit run app.py
+# or use Gradio, Dash, any other platform you prefer
 ```
 
 ### Run Tests
