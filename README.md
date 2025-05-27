@@ -1,5 +1,4 @@
-# DeepFake Shield
-### AI-Powered Deepfake Video Detector
+# DeepFake Shield : AI-Powered Deepfake Video Detector
 
 ## Overview
 
