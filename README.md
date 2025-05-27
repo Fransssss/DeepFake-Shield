@@ -15,7 +15,7 @@ This project is ongoing and publicly documented on LinkedIn to inspire transpare
 * Supports full video analysis with per-frame confidence scoring
 * Outputs an explainable result (confidence score, key frames)
 * Optionally generates a downloadable PDF report for evidence or documentation
-* Web-based interface for easy use (Streamlit or Gradio)
+* Web-based interface for easy use (Dash, Streamlit, or Gradio)
 * "Safe Mode" to blur explicit content automatically
 * Victim-report feature (planned)
 
