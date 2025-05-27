@@ -173,6 +173,6 @@ This project is open source under the MIT License. Please Use it freely, but eth
 
 Creator: Fransiskus Agapa
 
-LinkedIn: ttps://www.linkedin.com/in/fransiskus-agapa/
+LinkedIn: https://www.linkedin.com/in/fransiskus-agapa/
 
 ---
