@@ -2,7 +2,7 @@
 
 ## Overview
 
-**DeepFake Shield** is a socially driven AI application built to detect whether a video has been synthetically altered using deepfake technologies. This tool is part of a broader mission to fight digital abuse, particularly the harmful rise of AI-generated pornographic content that misuses the likeness of innocent individuals. The app offers researchers, journalists, content moderators, and the general public a reliable way to verify the authenticity of videos.
+**DeepFake Shield** is part of a broader mission to fight digital abuse, particularly the harmful rise of AI-generated pornographic content that misuses the likeness of innocent individuals. The app offers researchers, journalists, content moderators, and the general public a reliable way to verify the authenticity of videos.
 
 This project is ongoing and publicly documented on LinkedIn to inspire transparency, accountability, and ethical AI development.
 
