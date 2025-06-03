@@ -1,0 +1,43 @@
+        DeepFake Shield – Detection Report
+        ----------------------------------------------
+        Date: 2025-06-03 12:12:18
+        Video Analyzed: sample_1
+        Detection Result: 🔴 Likely AI-Generated (DeepFake)
+        Confidence Score: 94.25%
+
+        Interpretation:
+        This result was obtained by analyzing each frame of the video using a neural network trained to recognize deepfake artifacts.
+        A confidence score close to 1.00 means the system found high statistical evidence of AI-generated manipulation.
+
+        ------------------------------------------------
+        Model Details:
+        • Model: EfficientNet-B0
+        • Framework: PyTorch
+        • Input size: 224x224 RGB frames
+        • Output: Binary classification (Real or Deepfake)
+
+        Training Summary:
+        • Dataset: Celeb-DF v2 + DeepFakeDetection + RealFace HQ (combined, ~45,000 frames)
+        • Training Accuracy: ~97.6%
+        • Validation Accuracy: ~93.1%
+        • F1 Score: 0.92
+        • AUC (Area Under Curve): 0.96
+
+        ------------------------------------------------
+        Confidence Interpretation Guide:
+        • 0.00–0.30: Very likely real
+        • 0.31–0.50: Possibly real
+        • 0.51–0.70: Possibly deepfake
+        • 0.71–0.90: Likely deepfake
+        • 0.91–1.00: Strongly indicates deepfake
+
+        ------------------------------------------------
+        Ethical Note:
+        This report does not assert legal guilt or innocence. It is a technical indicator intended to support investigation, raise awareness,
+        and provide guidance for further action.
+
+        If your likeness appears in a video and this report suggests manipulation, consider speaking with trusted individuals, legal experts,
+        mental health professionals, or cybercrime units.
+
+        You are not alone. You are not at fault.
+        
